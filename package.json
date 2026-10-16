@@ -1,0 +1,8 @@
+{
+  "name": "gymfit-site",
+  "version": "1.0.0",
+  "description": "Dynamic fitness website (Node.js, zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
